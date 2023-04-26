@@ -1,0 +1,20 @@
+.one {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#id {
+    color: blue;
+    font-size: 36px;
+}
+
+.third {
+    background-color: rgb(255, 192, 203);
+    font-size: 24px;
+}
+
+#id-two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
